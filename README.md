@@ -12,7 +12,7 @@
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/ImgTextify.git
+git clone https://github.com/rathoreshivansh/ImgTextify.git
 cd ImgTextify
 ```
 
